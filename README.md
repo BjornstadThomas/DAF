@@ -1,5 +1,10 @@
-# DAF
-Deteksjon Av Fisk i video - bacheloroppgave 2020
+# BACHELOROPPGAVE - DETEKSJON AV FISK I VIDEO #
 
-Testsett er midlertidig tilgjenglig på: https://studntnu-my.sharepoint.com/:f:/g/personal/thomasfb_ntnu_no/EtZ3AEZ1RetEjvb5rnTpcjoBviXR04Ntsb5CtqvzIYKGaQ
+Bacheloroppgave vår 2020. 
 
+Link til fullstendig repo og oppdatert README: https://github.com/Vebjoern/DAF
+
+### Deltagere ###
+
+* Thomas Faack Bjørnstad
+* Vebjørn Sundli Alseth
